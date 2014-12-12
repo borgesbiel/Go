@@ -1,4 +1,4 @@
 Go
 ==
 
-Go Lang
+Go Lang - a few sources of testing GO
